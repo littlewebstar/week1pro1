@@ -1,0 +1,29 @@
+.container{
+    border: 2px solid black;
+}
+
+.content{
+    border: 2px solid blue;
+    margin: 100px;
+    
+}
+
+article{
+    border: 2px dashed black;
+}
+h4{
+    color: red;
+    text-align: center;
+}
+
+article:first-child { 
+    background-color: yellow;
+}
+a{
+   
+    text-align: center;
+    
+}
+header{
+    text-align: center;
+}
